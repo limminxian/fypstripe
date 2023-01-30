@@ -1,5 +1,5 @@
 <?php
-require 'D:/XAMPP/htdocs/stripe-android-api/vendor/autoload.php';
+require 'https://fypstripe.herokuapp.com/stripe-android-api/vendor/autoload.php';
 
 if (!empty($_POST['name']) &&
     !empty($_POST['addressLine']) &&
